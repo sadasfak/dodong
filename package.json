@@ -1,0 +1,23 @@
+{
+  "name": "ian",
+  "version": "1.0.0",
+  "description": "activity",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadasfak/dodong.git"
+  },
+  "author": "dongcas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadasfak/dodong/issues"
+  },
+  "homepage": "https://github.com/sadasfak/dodong#readme"
+}
